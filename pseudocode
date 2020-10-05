@@ -1,0 +1,22 @@
+def Function():
+ imput = what fuction would you like to do?
+ run imput to function
+
+def SquareArea():
+  ask for length of side
+  calculate side X side 
+
+def RecArea():
+ ask for the length and width 
+ calculate Length X Witdh
+
+
+def CircleArea():
+  ask for radius 
+  calculate 3.14 X r ^square root
+
+def TrangleArea():
+ ask for the height and base 
+ calculate base X height divided 2
+ 
+ 
